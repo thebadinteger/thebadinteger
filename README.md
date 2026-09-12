@@ -1,5 +1,5 @@
 ## hi.
-i'm **a reverse engineer**, focused on IoT devices.  
+i'm **a reverse engineer**.  
 love all kinds of unusual gadgets.  
 from ukraine.
 
