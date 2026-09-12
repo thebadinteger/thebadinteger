@@ -6,10 +6,9 @@ from ukraine.
 **languages:** <img valign="middle" src="https://img.shields.io/badge/Go-00647d?style=flat&logo=go&logoColor=ffffff" alt="Go"/> <img valign="middle" src="https://img.shields.io/badge/Nim-12131a?style=flat&logo=nim&logoColor=ffe953" alt="Nim"/> <img valign="middle" src="https://img.shields.io/badge/Python-4381b3?style=flat&logo=python&logoColor=ffffff" alt="Python"/> <img valign="middle" src="https://img.shields.io/badge/Java-ffffff?style=flat&logo=openjdk&logoColor=e76f00" alt="Java"/> <img valign="middle" src="https://img.shields.io/badge/JS-f0dc4f?style=flat&logo=javascript&logoColor=323330" alt="JS"/>  
 **ide:** <img valign="middle" src="https://img.shields.io/badge/Zed-000000?style=flat&logo=zedindustries&logoColor=ffffff" alt="Zed"/>  
 **links:**  
-- <img src="https://img.shields.io/badge/website-badinteger.root.sx-555?style=flat&logo=awwwards&logoColor=ffffff&labelColor=263d23" alt="website"/>  
-- <img src="https://img.shields.io/badge/telegram-@badinteger-555?style=flat&logo=telegram&logoColor=ffffff&labelColor=2da5e1" alt="telegram"/>  
-- <img src="https://img.shields.io/badge/channel-@thebadinteger-555?style=flat&logo=telegram&logoColor=ffffff&labelColor=087eb9" alt="channel"/>  
-- <img src="https://img.shields.io/badge/tiktok-@badinteger-555?style=flat&logo=tiktok&logoColor=ffffff&labelColor=000000" alt="tiktok"/>  
+<img valign="middle" src="https://img.shields.io/badge/website-263d23?style=flat&logo=awwwards&logoColor=ffffff" alt="website"/> [badinteger.root.sx](https://badinteger.root.sx)    
+<img valign="middle" src="https://img.shields.io/badge/telegram-2da5e1?style=flat&logo=telegram&logoColor=ffffff" alt="telegram"/> [@badinteger](https://t.me/badinteger)  
+<img src="https://img.shields.io/badge/channel-087eb9?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIxOSAxOSA3MCA3MCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48ZyB0cmFuc2Zvcm09InRyYW5zbGF0ZSgwLDEwOCkgc2NhbGUoMC4wNCwtMC4wNCkiIGZpbGw9IiNmZmYiPjxwYXRoIGQ9Ik0xNzQ5IDIwMzFsLTIxMS0xNDN2LTM4Ny0zODZsMjExLTEzM2MyMjktMTQzIDI5OS0xNTkgMzc2LTgyIDQ3IDQ3IDUwIDgzIDUwIDYxMyAwIDUyOS0zIDU2NS01MCA2MTItNzggNzgtMTUwIDYxLTM3Ni05NHoiLz48cGF0aCBkPSJNNjA3IDE3NjJjLTg3LTg3LTg3LTg3LTc4LTI4NyA4LTE3OCAxNi0yMDcgNzgtMjY4IDY3LTY4IDc3LTcwIDM5NS03OCAyMjgtNiAzMzYgMSAzNjIgMjIgNDcgMzkgNTMgNjIyIDYgNjY5LTIwIDIwLTEzNSAzMC0zNTMgMzBsLTMyMiAwLTg4LTg4eiIvPjxwYXRoIGQ9Ik04NjcgMTAwOGMtMzQtMzQtMTUtMTA4IDcyLTI3NSAxMDctMjA1IDE2NC0yNTggMjc2LTI1OCAxMjYgMCAxNzEgODQgMTUxIDI4MC05IDg1LTMzIDE4MC01NCAyMTItMzUgNTItNTcgNTgtMjMzIDU4LTEwOCAwLTIwMy03LTIxMi0xN3oiLz48L2c+PC9zdmc+&logoColor=ffffff" alt="channel"/> [@thebadinteger](https://t.me/thebadinteger)  
 
 <details>
 <summary><b>support me</b> <i>(expandable)</i></summary>
