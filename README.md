@@ -4,7 +4,6 @@ love all kinds of unusual gadgets.
 from ukraine.
 
 **languages:** <img valign="middle" src="https://img.shields.io/badge/Go-00647d?style=flat&logo=go&logoColor=ffffff" alt="Go"/> <img valign="middle" src="https://img.shields.io/badge/Nim-12131a?style=flat&logo=nim&logoColor=ffe953" alt="Nim"/> <img valign="middle" src="https://img.shields.io/badge/Python-4381b3?style=flat&logo=python&logoColor=ffffff" alt="Python"/> <img valign="middle" src="https://img.shields.io/badge/Java-ffffff?style=flat&logo=openjdk&logoColor=e76f00" alt="Java"/> <img valign="middle" src="https://img.shields.io/badge/JS-f0dc4f?style=flat&logo=javascript&logoColor=323330" alt="JS"/>  
-**ide:** <img valign="middle" src="https://img.shields.io/badge/Zed-000000?style=flat&logo=zedindustries&logoColor=ffffff" alt="Zed"/>  
 
 website: [badinteger.root.sx](https://badinteger.root.sx)  
 telegram: [@badinteger](https://t.me/badinteger)  
