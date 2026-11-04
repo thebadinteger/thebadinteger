@@ -15,7 +15,7 @@ channel: [@thebadinteger](https://t.me/thebadinteger)
 bitcoin: `bc1prskjtpnkyr076nccqy4syjgjkuxdhh037xq00jan2ku6yk8pv3dqjxful9`  
 etherium: `0xCa02e7D0d24f3efc4Ed9AdD464E94f7079e5f6be`  
 solana: `kFbcY5513r1GY9pYWG53MBUnRsMkFB65TpnUdD5jWSd`  
-ton: `UQDHTf_7f0cN8Id7BBBeFplkj1xsosmWqyjSVufJFfdzXNgG`  
+ton: `UQBlTLrQ8ICvBc7ndLmXl3hPJncaGnyNPTtqWfQsefqNS1Aa`  
 polygon: `0xCa02e7D0d24f3efc4Ed9AdD464E94f7079e5f6be`  
 dogecoin: `DLkZYu5e2V2a4YXeXcGVoun5SYQ4Zbdh9B`  
 litecoin: `ltc1p7kgsehjc8xn093ud3d765w9q03hk2rmhdufsdd6sydfnasez7tks26u6sd`  
