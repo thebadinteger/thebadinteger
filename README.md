@@ -5,7 +5,7 @@ from ukraine.
 
 **languages:** <img valign="middle" src="https://img.shields.io/badge/Go-00647d?style=flat&logo=go&logoColor=ffffff" alt="Go"/> <img valign="middle" src="https://img.shields.io/badge/Nim-12131a?style=flat&logo=nim&logoColor=ffe953" alt="Nim"/> <img valign="middle" src="https://img.shields.io/badge/Python-4381b3?style=flat&logo=python&logoColor=ffffff" alt="Python"/> <img valign="middle" src="https://img.shields.io/badge/Java-ffffff?style=flat&logo=openjdk&logoColor=e76f00" alt="Java"/>  
 
-website: [badinteger.root.sx](https://badinteger.root.sx)  
+website: [badinteger.link](https://badinteger.link)  
 telegram: [@badinteger](https://t.me/badinteger)  
 channel: [@thebadinteger](https://t.me/thebadinteger)      
 
